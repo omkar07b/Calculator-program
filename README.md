@@ -1,2 +1,2 @@
-# Calculator-program
+# CalculatorProgram
   CALCULATOR USING TKINTER
